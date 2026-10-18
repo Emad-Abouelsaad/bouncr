@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Emad-Abouelsaad/bouncr/actions/workflows/ci.yml"><img src="https://github.com/Emad-Abouelsaad/bouncr/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
+  <a href="https://github.com/Emad-Student/bouncr/actions/workflows/ci.yml"><img src="https://github.com/Emad-Student/bouncr/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
   <img src="https://img.shields.io/badge/Flutter-3-02569B?logo=flutter" alt="Flutter">
   <img src="https://img.shields.io/badge/Firebase-Auth%20%C2%B7%20Firestore%20%C2%B7%20Functions-FFCA28?logo=firebase&logoColor=black" alt="Firebase">
   <img src="https://img.shields.io/badge/Cloud%20Functions-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
@@ -114,7 +114,7 @@ All suites run on every pull request in **GitHub Actions** ([`ci.yml`](.github/w
 **Requirements:** Flutter SDK (stable), Android SDK with an emulator (API 26+, Google Play image) or a phone with USB debugging, Node.js 22+, Firebase CLI, Java 11+ (for the emulators).
 
 ```bash
-git clone https://github.com/Emad-Abouelsaad/bouncr.git
+git clone https://github.com/Emad-Student/bouncr.git
 cd bouncr
 flutter pub get
 ```
